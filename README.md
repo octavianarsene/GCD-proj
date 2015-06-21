@@ -1,8 +1,3 @@
----
-title: "Human Activity Recognition"
-output: html_document
----
-
 ### Description
 
 Create a tidy data set with the average of each variable (mean-s and standard deviation-s only) for each activity and each subject. These **Human Activity Recognition Using Smartphones** measurements were done during the UCI research project `http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones`.

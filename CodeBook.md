@@ -1,8 +1,3 @@
----
-title: "Human Activity Recognition"
-output: html_document
----
-
 ### Input data
 
 For each record it is provided:
